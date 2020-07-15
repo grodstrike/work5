@@ -1,7 +1,9 @@
 
 
 <div class="container">
-		<span onclick="showContent('/view/z1.php')" class="btn">Запрос 1</span>	 <span onclick="showContent('/view/z2.php')" class="btn">Запрос 2</span>	<span onclick="showContent('/view/z3.php')" class="btn">Запрос 1</span>	
+		<span onclick="showContent('/view/z1.php')" class="btn btn-dark">Запрос 1</span>
+        <span onclick="showContent('/view/z2.php')" class="btn btn-dark">Запрос 2</span>
+        <span onclick="showContent('/view/z3.php')" class="btn btn-dark">Запрос 3</span>	
 
 	  	 <div id="contentBody">  
 			
